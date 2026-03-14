@@ -1,4 +1,4 @@
-********AI Resume Screening using Machine Learning****
+****AI Resume Screening using Machine Learning****
 
 ****Project Overview****
 
@@ -39,7 +39,6 @@ The following classification algorithms were implemented and compared:
 4. Support Vector Machine (SVM)
 5. K-Nearest Neighbors (KNN)
 6. Gradient Boosting / XGBoost
-
 These models were evaluated to determine which algorithm performs best for resume screening prediction.
 
 
@@ -67,8 +66,7 @@ The project follows the standard machine learning pipeline:
 7. Jupyter Notebook
 
 
-****Model Evaluation Metrics
-****
+****Model Evaluation Metrics****
 
 The models were evaluated using:
 
@@ -77,14 +75,12 @@ The models were evaluated using:
 3. Recall
 4. F1 Score
 5. Confusion Matrix
-
 These metrics help measure how well the models classify resumes.
 
 
 ****Feature Importance****
 
 Using ensemble models such as Random Forest, the system identifies the most important features influencing recruiter decisions such as:
-
 1. AI Score
 2. Experience
 3. Projects
