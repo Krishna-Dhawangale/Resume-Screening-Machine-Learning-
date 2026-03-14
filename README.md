@@ -1,4 +1,4 @@
-****AI Resume Screening using Machine Learning****
+****Resume Screening using Machine Learning****
 
 ****Project Overview****
 
